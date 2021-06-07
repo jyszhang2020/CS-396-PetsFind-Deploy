@@ -1,0 +1,18 @@
+#smallest-page-container {
+    min-height: 750px;
+}
+
+.title {
+    text-align: center;
+    color: #435560;
+    padding-top: 30px;
+}
+
+.form {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#input-file {
+    margin-bottom: 20px;
+}
